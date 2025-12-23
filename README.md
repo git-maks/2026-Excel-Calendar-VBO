@@ -1,6 +1,9 @@
 # 📅 2026 Dynamic Excel Calendar Generator
 
-This VBA macro generates a clean, printable, and smart 2026 calendar directly in Excel. It’s not just a static picture—it actually knows what day it is.
+This VBA macro generates a clean, printable, and smart 2026 calendar directly in Excel. It’s not just a static picture - it actually knows what day it is.
+
+### What it looks like 
+![Screenshot](screenshot.png)
 
 ### What it does
 
